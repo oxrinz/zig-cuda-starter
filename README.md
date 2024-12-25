@@ -1,6 +1,6 @@
 # Zig x CUDA starter
 
-A minimal starter for building Cig libraries with CUDA
+A minimal starter for building Zig libraries with CUDA
 
 
 Few things to note:
