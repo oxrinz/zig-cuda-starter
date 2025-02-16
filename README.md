@@ -7,6 +7,3 @@ Few things to note:
 - CUDA_PATH must be defined
 - Change gpu_arch to your gpu architecture in build.zig 
 
----
-
-If you run into any problems don't hesitate to pr or open an issue
